@@ -1,5 +1,34 @@
 {
-  "users": [{ "id": 1, "name": "Myra" }],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Kerry Cremin I",
+      "id": 2
+    },
+    {
+      "name": "Rodolfo Schiller",
+      "id": 3
+    },
+    {
+      "name": "Melanie Bechtelar",
+      "id": 4
+    },
+    {
+      "name": "Mrs. Iris Bins PhD",
+      "id": 5
+    },
+    {
+      "name": "Denise Goyette",
+      "id": 6
+    },
+    {
+      "name": "Katrina Stroman",
+      "id": 7
+    }
+  ],
   "albums": [],
   "photos": []
 }
