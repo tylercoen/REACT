@@ -25,6 +25,12 @@
       "id": 7
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Killing Lonliness",
+      "userId": 1
+    }
+  ],
   "photos": []
 }
