@@ -23,13 +23,42 @@
     {
       "name": "Katrina Stroman",
       "id": 7
+    },
+    {
+      "name": "Vincent Christiansen",
+      "id": 8
     }
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Killing Lonliness",
-      "userId": 1
+      "userId": 1,
+      "title": "Generic Rubber Cheese",
+      "id": 11
+    },
+    {
+      "userId": 2,
+      "title": "Generic Wooden Mouse",
+      "id": 12
+    },
+    {
+      "userId": 3,
+      "title": "Intelligent Soft Soap",
+      "id": 14
+    },
+    {
+      "userId": 3,
+      "title": "Unbranded Bronze Keyboard",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Generic Cotton Chips",
+      "id": 18
+    },
+    {
+      "userId": 2,
+      "title": "Electronic Plastic Pizza",
+      "id": 19
     }
   ],
   "photos": []
